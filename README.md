@@ -1,4 +1,4 @@
-# Hi 👋 I'm Asitha
+# Hi  I'm Asitha
 
 🎓 Electrical & Information Engineering Undergraduate  
 
@@ -6,7 +6,7 @@ I am passionate about understanding systems from the ground up and building proj
 
 ---
 
-## 💻 Programming & Technical Skills
+##  Programming & Technical Skills
 
 - C++
 - Data Structures (Implemented from scratch)
@@ -15,7 +15,7 @@ I am passionate about understanding systems from the ground up and building proj
 
 ---
 
-## 🔌 Embedded Systems Experience
+##  Embedded Systems Experience
 
 - Arduino Projects
 - ESP32 Projects
@@ -25,7 +25,7 @@ I am passionate about understanding systems from the ground up and building proj
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 - Home bulb control system using ESP32 with custom web interface  
 - Water tank level monitoring system  
@@ -34,7 +34,7 @@ I am passionate about understanding systems from the ground up and building proj
 
 ---
 
-## 🎯 Currently Learning
+##  Currently Learning
 
 - Advanced Data Structures & Algorithms  
 - Embedded Systems Optimization  
