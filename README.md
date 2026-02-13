@@ -44,4 +44,4 @@ I am passionate about understanding systems from the ground up and building proj
 
 ## 📫 Connect With Me
 
-- LinkedIn: (Add your link here)
+- LinkedIn:www.linkedin.com/in/asitha-dananjaya-06892635a
