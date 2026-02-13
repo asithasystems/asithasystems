@@ -1,4 +1,4 @@
-# Hi ,  I'm Asitha
+# Hi ,  I'm Asitha Dananjaya Weerakoon
 
 🎓 Electrical & Information Engineering Undergraduate  
 
